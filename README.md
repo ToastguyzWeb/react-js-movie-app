@@ -28,6 +28,7 @@ https://github.com/user-attachments/assets/b4db7a9f-3cdc-4f03-9fc9-d0977417b01b
 1. Clone this repository:
    ```bash
    git clone https://github.com/ToastguyzWeb/react-js-movie-app.git
+   cd react-js-movie-app
 
 2. Install Dependencies
    ```bash
@@ -42,3 +43,5 @@ https://github.com/user-attachments/assets/b4db7a9f-3cdc-4f03-9fc9-d0977417b01b
 5. Start the Development Server
    ```bash
    npm run dev
+
+*Built with ❤️ using React and TailwindCSS by **[Toastguyz Team](https://in.linkedin.com/company/toastguyz)***
