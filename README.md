@@ -11,7 +11,7 @@ A sleek and responsive movie browser built with **React** + **Vite**, powered by
 
 ## 🚀 Live Demo
 Check out the app deployed on **Netlify**:
-👉 [Visit Demo React App Here](https://tg-react-movie-db-app.netlify.app/)
+👉 [Visit Demo React App Here](https://tg-react-movie-db.netlify.app/)
 <br/>
 
 ## 📱 Web Preview
@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/b4db7a9f-3cdc-4f03-9fc9-d0977417b01b
 ## 🛠️ Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/fldvlpr/rj-movie-app.git
+   git clone https://github.com/ToastguyzWeb/react-js-movie-app.git
 
 2. Install Dependencies
    ```bash
