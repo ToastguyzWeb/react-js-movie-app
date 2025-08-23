@@ -44,4 +44,4 @@ https://github.com/user-attachments/assets/b4db7a9f-3cdc-4f03-9fc9-d0977417b01b
    ```bash
    npm run dev
 
-*Built with ❤️ using React and TailwindCSS by **[Toastguyz Team](https://in.linkedin.com/company/toastguyz)***
+*Built with ❤️ using React and TailwindCSS
